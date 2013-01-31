@@ -1,0 +1,4 @@
+java -jar C:\Users\Karlo\Desktop\FuzzyBoat.jar
+3
+25
+10
