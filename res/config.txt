@@ -1,4 +1,4 @@
-java -jar C:\Users\Karlo\Desktop\FuzzyBoat.jar
+java -jar /app/target/fuzzy-boat-1.0.0-jar-with-dependencies.jar
 3
 25
 10
