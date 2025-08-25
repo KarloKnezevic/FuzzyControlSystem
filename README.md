@@ -1,6 +1,6 @@
-# Fuzzy Boat Control System (Modernized)
+# Fuzzy Boat Control System
 
-This project is a modernized implementation of a fuzzy control system designed to navigate a ship through a canal, avoiding collisions. The original codebase has been refactored to use modern Java 17 practices, with a focus on readability, modularity, and clear documentation.
+This project is an implementation of a fuzzy control system designed to navigate a ship through a canal, avoiding collisions. The original codebase has been refactored to use modern Java 17 practices, with a focus on readability, modularity, and clear documentation.
 
 ## 🚢 Project Goal
 
@@ -10,7 +10,7 @@ The primary goal is to create a fuzzy controller that receives sensor data from 
 - **Output (to simulator):** 2 integer values for acceleration (`-35` to `35`) and rudder angle (`-90` to `90`).
 - **Communication:** The system reads from standard input and writes to standard output.
 
-## ✨ Modernized Architecture
+## ✨ Architecture
 
 The refactored application follows a clean, modular design:
 
