@@ -25,8 +25,8 @@ public class Main {
             String line;
             while ((line = reader.readLine()) != null) {
                 line = line.trim();
-                if ("END".equalsIgnoreCase(line)) {
-                    System.err.println("END signal received. Shutting down.");
+                if ("KRAJ".equalsIgnoreCase(line)) {
+                    System.err.println("KRAJ signal received. Shutting down.");
                     break;
                 }
 
